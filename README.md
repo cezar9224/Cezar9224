@@ -1,7 +1,7 @@
 ### Hi there 👋
 Meu Nome e Anderson Dutra
 
-* 🎓Atualmente estudando Ciência da Computação na universidade cruzeiro do sul
+* 🎓Atualmente estudando Ciência da Computação na Universidade Cruzeiro do sul
 
 * 🔭 Estou em busca da minha primeira oportunidade de estagio ou integral. Sonho é um dia trabalhar com IA e Machine Learning ou Desenvolvimento de Software.
 
