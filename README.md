@@ -18,7 +18,7 @@ Possuo também conhecimentos em Infraestrutura de TI, já tendo Cursos acadêmic
 </details>
 </div>
 
-[![Linkedin taget="blank"](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-dutra-tec/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-dutra-tec/)
 [![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cezar9224/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvIL-aQHzs53d6XWIZUq9Mg)
 
