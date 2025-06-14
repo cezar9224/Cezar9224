@@ -3,7 +3,7 @@ Meu Nome e Anderson Dutra
 
 * 🎓 Atualmente estudando Ciência da Computação na Universidade Cruzeiro do sul
 
-* 🙏 Estou em busca da minha primeira oportunidade de estagio ou integral. Sonho é um dia trabalhar com Segurança da informação ou Desenvolvimento de Software.
+* 🙏 Estou em busca da minha primeira oportunidade de estagio ou integral. Sonho em um dia trabalhar com Segurança da informação ou Desenvolvimento de Software.
 
   <div>
   <details>
