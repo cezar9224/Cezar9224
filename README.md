@@ -11,7 +11,7 @@ Meu Nome e Anderson Dutra
 
   - 💬 Tenho 27 Anos e atualmente moro no Brasil em Fortaleza-Ce tenho Tenho fluência em inglês e tenho experiência com SQL, Html, Css, Tailwind Css , Javascript, node.Js , React Js, Angular Js , vue Js, express, JQuery, Git & Github, MySql e mongoDb. Python Básico.
 
-"Desenvolvedor FullStack & Ciências de dados"
+"Desenvolvedor FullStack & Cybersecurity"
 
 Possuo também conhecimentos em Infraestrutura de TI, já tendo Cursos acadêmicos em montagem e manutenção de Computadores e notebook e equipamentos.  Python, Análise de Dados, Visualização de Dados & Microsoft Office e PowerBi
  
