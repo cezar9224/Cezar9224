@@ -43,6 +43,9 @@ Busco evoluir constantemente através de projetos reais, aplicando boas prática
 🔹 **Sistema de Autenticação (JWT)**
 > API com login seguro, autenticação e proteção de rotas utilizando Node.js e JWT
 
+🔹 **Lista de tarefas**
+> AP backend, CRUD com NodeJS e express e banco postgreeSQL
+
 🔹 **Dashboard de Dados**
 > Aplicação em React consumindo API com visualização de dados
 
