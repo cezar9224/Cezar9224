@@ -11,6 +11,7 @@
 
 🎓 Estudante de Ciência da Computação  
 📍 Fortaleza - CE, Brasil  
+ Contato: andersonportugaall@gmail.com  Fone: 85 98211-2279
 
 Sou desenvolvedor com foco em construção de aplicações web modernas e interesse crescente em segurança da informação. Tenho experiência prática com desenvolvimento Full Stack, APIs e bancos de dados, além de conhecimentos em redes e infraestrutura.
 
@@ -28,7 +29,7 @@ Busco evoluir constantemente através de projetos reais, aplicando boas prática
 ### ⚙️ Back-end
 - Node.js, Express  
 - APIs REST  
-- MySQL, MongoDB  
+- MySQL, MongoDB
 
 ### 🔐 Segurança & Dados
 - Fundamentos de Cybersecurity  
